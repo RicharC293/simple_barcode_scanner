@@ -21,6 +21,9 @@ dependencies:
   webview_windows: ^0.2.2
   # Barcode scanner for android and ios
   flutter_barcode_scanner: ^2.0.0
+    git:
+      url: https://github.com/Polyrific-Inc/flutter_barcode_scanner.git
+      ref: bugfix/barcode_flutter_fragment_activity
   #Get assets path for window platform
   path: ^1.8.2
   #checking permissions
